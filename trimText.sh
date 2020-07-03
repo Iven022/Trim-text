@@ -1,5 +1,5 @@
 #!/bin/bash
-#!/bin/bash
+
 if [ $# = 1 ] && [ $1 != 0 ] 
 then 
 	echo -e "\e[32mVeuillez vérifier que le fichier lorem ipsum se trouve dans le même répertoire que le trimText.sh \e[0m"
